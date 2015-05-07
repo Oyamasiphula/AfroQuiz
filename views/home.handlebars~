@@ -21,7 +21,7 @@ $(function(){
 });
 
 </script>
-		<!--<button class="play-btn" onclick="location.href='/learn'">PLAY</button>-->
+		<button class="play-btn" onclick="location.href='/learn'">PLAY</button>
 	</div>
 	<div class="col-xs-4"></div>
 </div>
