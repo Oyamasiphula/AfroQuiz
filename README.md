@@ -1,2 +1,2 @@
 # AfroQuiz
-This is an African Quiz to our knowledge about other African countries.
+This quiz tests our knowledge about other African countries.
